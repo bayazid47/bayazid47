@@ -1,5 +1,4 @@
 ![I'm an Undergraduate in CSE](https://pbs.twimg.com/profile_banners/1664512669834153985/1685685988/1080x360)
-
 ### Hi there 👋, I'm Bayazid Hosen
 #### I'm an Undergraduate in CSE
 
@@ -21,6 +20,8 @@ Skills: C/Java
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bayazid47&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bayazid47)  
 
 ![GitHub metrics](https://metrics.lecoq.io/bayazid47)  
 
