@@ -1,6 +1,9 @@
-![I'm an Undergraduate in CSE](https://drive.google.com/file/d/1-LuoeGeYJs-nidHPFjDCk8P8j0emdzRo/view?usp=share_link)
+![I'm an Undergraduate in CSE](https://pbs.twimg.com/profile_banners/1664512669834153985/1685685988/1080x360)
+
 ### Hi there 👋, I'm Bayazid Hosen
 #### I'm an Undergraduate in CSE
+
+
 Hello! My name is Bayazid Hosen, and I am currently an undergraduate student pursuing a degree in Computer Science Engineering at Daffodil International University. I have always been captivated by the possibilities offered by technology, and studying CSE has allowed me to delve deeper into this dynamic and ever-evolving field.
 
 Skills: C/Java
