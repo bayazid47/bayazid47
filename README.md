@@ -3,14 +3,14 @@
 #### I'm an Undergraduate in CSE
 
 
-Hello! My name is Bayazid Hosen, and I am currently an undergraduate student pursuing a degree in Computer Science Engineering at Daffodil International University. I have always been captivated by the possibilities offered by technology, and studying CSE has allowed me to delve deeper into this dynamic and ever-evolving field.
+Hello! I'm Bayazid Hosen, and currently an undergraduate student pursuing a degree in Computer Science Engineering at Daffodil International University. I have always been captivated by the possibilities offered by technology, and studying CSE has allowed me to delve deeper into this dynamic and ever-evolving field.
 
-Skills: C/Java
+Skills: C/C++/Python
 
-- 🔭 I’m currently working on Personal Project 
-- 🌱 I’m currently learning **C++** 
-- 👯 I’m looking to collaborate on Github 
-- 🤔 I’m looking for help with Problem-Solving and Challenges 
+- 🧑🏻‍💻 I’m currently working on Personal Project 
+- 😣 Currently learning **Python** 
+- 🔭 Looking to collaborate on Github 
+- 🤔 Looking for help with Problem-Solving and Challenges 
 - 💬 Ask me about **Coding** 
 - 📫 How to reach me: http://www.linkedin.com/in/bayazid-hosen 
 
